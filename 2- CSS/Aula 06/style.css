@@ -1,0 +1,19 @@
+body {
+    background-color: #fdfdfd;
+}
+
+
+p {
+    color: rgb(82, 82, 82);
+}
+
+.foto {
+    width: 200px;
+    border: 5px solid #ffffff; 
+    border-radius: 50%;
+    /*o margim criao um espasamento externo para o lado de fora */
+    margin: 30px;
+    /*ja o padding cria um espasamento interno */
+    padding: 5px; /*shothand*/
+
+}

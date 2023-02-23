@@ -1,0 +1,21 @@
+body {
+    background-image:url(background.jpg) ;
+    background-repeat: no-repeat;
+    /*no-repeat e para a imagem nao se repetir
+    cover imagem tela toda
+
+    background-position: 100% 10%;*/
+    background-position: center right;
+    /*background-size: 500px; para alternar tamanho
+      background-attachment: fixed
+    */ 
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+
+p {
+    color: rgb(82, 82, 82);
+}
